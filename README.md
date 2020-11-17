@@ -3,7 +3,7 @@
 Pour l’utiliser il suffit d’exécuter le fichier depuis son emplacement. 
 De préférence placer le fichier dans un dossier, exemple :"globalis" puis rentrer dedans et exécuter le fichier sans argument :
 
-Exemple :
+Exemple depuis Windows:
 
 C:\globalis
 php script.php [Entrer]
